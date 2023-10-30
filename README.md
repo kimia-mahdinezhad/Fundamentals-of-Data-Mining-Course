@@ -1,5 +1,4 @@
-﻿
-# Fundamentals of Data Mining Course Repository
+﻿# Fundamentals of Data Mining Course
 
 This GitHub repository has been established as an academic resource, serving as a repository for the "Fundamentals of Data Mining" course completed during my university studies. Within this repository, you will find comprehensive information and resources related to the project of course. The following provides an overview of the topics covered in the course:
 
